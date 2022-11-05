@@ -30,3 +30,12 @@ such great language with wide community support i find it's a great language add
 # Course content
 
 in the [HomeWorks](./HomeWorks/) is every homework i solve
+
+# H.W
+
+- [ ] loops hard
+- [ ] for loop
+- [x] 1D array easy
+- [ ] 1D array medium
+- [ ] 1D array Hard
+- [ ]
