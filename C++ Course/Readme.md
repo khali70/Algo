@@ -36,6 +36,8 @@ in the [HomeWorks](./HomeWorks/) is every homework i solve
 - [ ] loops hard
 - [ ] for loop
 - [x] 1D array easy
-- [ ] 1D array medium
+- [ ] 1D array medium (2...etc)
 - [ ] 1D array Hard
-- [ ]
+- [x] char array easy
+- [ ] char array medium
+- [ ] char array Hard
