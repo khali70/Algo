@@ -7,3 +7,4 @@ var containsDuplicate = function (nums) {
   }
   return false
 };
+// hello youssef
